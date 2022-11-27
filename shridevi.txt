@@ -1,0 +1,18 @@
+3. One-line Answer
+
+ A. what is reverse i search in a Linux terminal?
+        Reverse i search is an incremental search. It starts with 
+        current line of a history and then starts searching of
+ 	quaries in the backward direction
+
+ B. How do you list out the hidden directories using linux command line tool?
+    1. ~$ls -a
+    2. ~$ls -la
+    3. ~$ls -A
+    
+C. How comfortable are you with using linux-based OS like Ubantu,Centos,etc?
+    Beginner
+
+D.have you ever used servers to host any web applications in the past?
+  If yes,what services did you setup?
+   Xamp
